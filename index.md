@@ -16,3 +16,8 @@ public class Johan {
 }
 
 ```
+
+- [X] learn java programming langage
+- [X] learn Spring framework
+- [ ] build a new project with it
+
