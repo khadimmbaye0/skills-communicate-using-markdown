@@ -6,3 +6,13 @@
 ###### [-_-]
 
 ![Image of Johan](https://static.wikia.nocookie.net/obluda/images/f/ff/Johan.png/revision/latest?cb=20250427000122)
+
+``` java
+
+public class Johan {
+    private String firstname = "Johan";
+    private String lastname  = "Libert";
+    private String role      = "Anime Character";
+}
+
+```
